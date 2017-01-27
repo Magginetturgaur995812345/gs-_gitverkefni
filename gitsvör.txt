@@ -1,4 +1,5 @@
 #Git spurningar og svör
+
 1. Hvað gera eftirfarandi Linux skipanir?
 	a:cd = fer inn í möppu
 	b:cd ~ = fer tilbaka á heimasvæði
